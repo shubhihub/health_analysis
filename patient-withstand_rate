@@ -1,0 +1,39 @@
+### 📋 **Requirement Gathering:**
+1. **Identify Stakeholders**: Established key points of contact to ensure clear communication and understanding of needs.
+2. **Understand Business Objectives**: Conducted meetings and maintained continuous communication to align the project with business goals.
+3. **High-Level Data Study**: Analyzed data sources, column descriptions, data types, volume, frequency, and data quality.
+4. **Define Scope**: Documented KPIs, timelines, and expectations to ensure clarity and focus.
+
+### 🎯 **Overall Objectives:**
+#### **Project Goals:**
+1. Track the current status of the patient waiting list.
+2. Analyze historical monthly trends of waiting lists in inpatient and outpatient categories.
+3. Conduct detailed specialty-level and age profile analysis.
+
+#### **Data Scope:**
+- Period: 2018-2021
+
+#### **Metrics Required:**
+1. Average & Median Waiting List
+2. Current Total Wait List
+
+#### **Views Required:**
+1. Summary Page
+2. Detailed Page for Granular Analysis
+
+### 📊 **Project Highlights:**
+- **Tools Used**: Power BI, [any other tools or data sources]
+- **Key Features**:
+ - Interactive visualizations
+ - Real-time data analysis
+ - Comprehensive reports
+ 
+- **Learnings**:
+ - Advanced data modeling techniques
+ - Effective data visualization practices
+ - Integration of multiple data sources
+
+### 🌟 **Impact:**
+- Enabled better tracking and management of patient waiting lists
+- Provided historical trends analysis to forecast and optimize resource allocation
+- Delivered in-depth insights into specialty-level and age profile metrics
